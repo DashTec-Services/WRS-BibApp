@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This file is for strings that shouln't be translated -->
+<resources>
+    <string name="transition_toolbar">Toolbar</string>
+    <string name="transition_cover">Cover</string>
+    <string name="transition_gray_box">Gray Box</string>
+    <string-array name="warning_n">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>7</item>
+    </string-array>
+</resources>
